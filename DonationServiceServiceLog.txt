@@ -1,0 +1,60 @@
+2020-11-24 11:56:08,732 Application started. Press Ctrl+C to shut down.
+2020-11-24 11:56:08,745 Hosting environment: Development
+2020-11-24 11:56:08,747 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\DonarService
+2020-11-24 11:56:14,716 Http get request initiated for all donars
+2020-11-24 11:56:14,716 All the donars were displayed
+2020-11-24 17:39:18,208 Application started. Press Ctrl+C to shut down.
+2020-11-24 17:39:18,220 Hosting environment: Development
+2020-11-24 17:39:18,222 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\DonarService
+2020-11-24 17:39:24,156 Http get request initiated for all donars
+2020-11-24 17:39:24,156 All the donars were displayed
+2020-11-26 16:33:38,259 Application started. Press Ctrl+C to shut down.
+2020-11-26 16:33:38,306 Hosting environment: Development
+2020-11-26 16:33:38,311 Content root path: E:\FTE-DOCS(CTS)\Donar Service Static\DonarService
+2020-11-26 16:33:47,822 Http get request initiated for all donars
+2020-11-26 16:33:47,823 All the donars were displayed
+2020-11-29 16:56:27,701 Application started. Press Ctrl+C to shut down.
+2020-11-29 16:56:27,782 Hosting environment: Development
+2020-11-29 16:56:27,786 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\DonarService
+2020-11-29 16:56:41,302 Http get request initiated for all donars
+2020-11-29 16:56:41,303 All the donars were displayed
+2020-11-29 17:14:22,479 Application started. Press Ctrl+C to shut down.
+2020-11-29 17:14:22,520 Hosting environment: Development
+2020-11-29 17:14:22,523 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\DonarService
+2020-11-29 17:17:31,312 Http get request initiated for all donars
+2020-11-29 17:17:31,313 All the donars were displayed
+2020-11-29 17:18:54,043 Http get request initiated for all donars
+2020-11-29 17:18:54,048 All the donars were displayed
+2020-11-29 17:27:32,279 Http get request initiated for all donars
+2020-11-29 17:27:32,280 All the donars were displayed
+2020-11-29 17:27:39,517 Http get request initiated for all donars
+2020-11-29 17:27:39,517 All the donars were displayed
+2020-11-29 17:27:47,284 Http get request initiated for all donars
+2020-11-29 17:27:47,285 All the donars were displayed
+2020-11-29 17:28:05,474 Http post Request Initiated for the donar Id 0
+2020-11-29 17:28:05,474 Obtained Valid Model
+2020-11-29 17:28:12,291 Http get request initiated for all donars
+2020-11-29 17:28:12,291 All the donars were displayed
+2020-11-29 17:28:37,238 Http post Request Initiated for the donar Id 0
+2020-11-29 17:28:37,239 Obtained Valid Model
+2020-11-29 17:28:50,197 Http get request initiated for all donars
+2020-11-29 17:28:50,197 All the donars were displayed
+2020-11-29 17:29:05,478 Http post Request Initiated for the donar Id 0
+2020-11-29 17:29:05,478 Obtained Valid Model
+2020-11-29 17:29:16,431 Http get request initiated for all donars
+2020-11-29 17:29:16,431 All the donars were displayed
+2020-11-29 17:46:28,384 Application started. Press Ctrl+C to shut down.
+2020-11-29 17:46:28,411 Hosting environment: Development
+2020-11-29 17:46:28,415 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\DonarService
+2020-11-29 17:46:32,920 Http get request initiated for all donars
+2020-11-29 17:46:32,920 All the donars were displayed
+2020-11-29 17:46:37,261 Http get request initiated for all donars
+2020-11-29 17:46:37,262 All the donars were displayed
+2020-11-29 17:46:40,096 Http get request initiated for all donars
+2020-11-29 17:46:40,097 All the donars were displayed
+2020-11-29 17:46:57,356 Http post Request Initiated for the donar Id 0
+2020-11-29 17:46:57,357 Obtained Valid Model
+2020-11-29 17:47:00,812 Http get request initiated for all donars
+2020-11-29 17:47:00,812 All the donars were displayed
+2020-11-29 17:47:04,193 Http get request initiated for all donars
+2020-11-29 17:47:04,194 All the donars were displayed
